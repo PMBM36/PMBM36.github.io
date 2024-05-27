@@ -245,6 +245,16 @@ nav ul li{
     margin: 10px;
 }
 
+.projects a{
+    color:white;
+    text-decoration:none;
+    background-color:var(--primary-color);
+    border-radius:24px;
+    padding: 11px 11px;
+
+}
+
+
 
 /*Fin de Proyecto*/
 
